@@ -1,9 +1,9 @@
 pygments: true
 auto: true
 
-title: Cameroon Budget Inquirer
+title: Open Budget Oakland
 openspendingjs: '/js/openspendingjs'
-url: http://cameroon.openspending.org
+url: http://openbudgetoakland.org/
 
 locales:
   en:
