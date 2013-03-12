@@ -9,6 +9,9 @@ locales:
   en:
     home: "Home"
     about: "About"
+    getinvolved: "Get Involved"
+    visuals: "Visuals"
+    datatools: "Data/Tools"
     why: "Why Budget Transparency"
 #    nationalbudget: "National Investment Budget"
 #    nwbudget: "Regional Investment Budget"
