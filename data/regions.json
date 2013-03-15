@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Bratislava",
+        "dataset": "bratislava-city"
+    },
+    {
+        "name": "Košice",
+        "dataset": "kosice"
+    }
+]
