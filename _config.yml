@@ -3,7 +3,7 @@ auto: true
 
 title: Open Budget Oakland
 openspendingjs: '/js/openspendingjs'
-url: http://openbudgetoakland.org/
+url: http://mostlocal.org
 
 locales:
   en:
